@@ -1,7 +1,7 @@
-package com.gear.attachment.config.dto;
+package com.gear.sensitive.config.dto;
 
-import com.gear.attachment.annotation.Sensitive;
-import com.gear.attachment.enums.SensitiveStrategy;
+import com.gear.sensitive.annotation.Sensitive;
+import com.gear.sensitive.enums.SensitiveStrategy;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

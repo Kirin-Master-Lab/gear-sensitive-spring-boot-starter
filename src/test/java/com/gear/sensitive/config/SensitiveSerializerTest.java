@@ -1,8 +1,8 @@
-package com.gear.attachment.config;
+package com.gear.sensitive.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import com.gear.attachment.config.dto.SensitiveTestDTO;
+import com.gear.sensitive.config.dto.SensitiveTestDTO;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

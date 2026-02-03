@@ -1,9 +1,9 @@
-package com.gear.attachment.annotation;
+package com.gear.sensitive.annotation;
 
 import com.fasterxml.jackson.annotation.JacksonAnnotationsInside;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.gear.attachment.config.SensitiveSerializer;
-import com.gear.attachment.enums.SensitiveStrategy;
+import com.gear.sensitive.config.SensitiveSerializer;
+import com.gear.sensitive.enums.SensitiveStrategy;
 
 
 import java.lang.annotation.ElementType;

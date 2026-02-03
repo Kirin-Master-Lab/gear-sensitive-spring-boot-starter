@@ -1,4 +1,4 @@
-package com.gear.attachment.enums;
+package com.gear.sensitive.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

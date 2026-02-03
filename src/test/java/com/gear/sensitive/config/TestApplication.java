@@ -1,4 +1,4 @@
-package com.gear.attachment.config;
+package com.gear.sensitive.config;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

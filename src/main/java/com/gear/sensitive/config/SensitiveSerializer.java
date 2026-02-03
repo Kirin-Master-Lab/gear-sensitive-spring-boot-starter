@@ -1,4 +1,4 @@
-package com.gear.attachment.config;
+package com.gear.sensitive.config;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.BeanProperty;
@@ -7,8 +7,8 @@ import com.fasterxml.jackson.databind.JsonSerializer;
 import com.fasterxml.jackson.databind.SerializerProvider;
 import com.fasterxml.jackson.databind.ser.ContextualSerializer;
 
-import com.gear.attachment.annotation.Sensitive;
-import com.gear.attachment.enums.SensitiveStrategy;
+import com.gear.sensitive.annotation.Sensitive;
+import com.gear.sensitive.enums.SensitiveStrategy;
 import lombok.NoArgsConstructor;
 
 import java.io.IOException;
